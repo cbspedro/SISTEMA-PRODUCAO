@@ -1,47 +1,4 @@
-  
-### Sistema de gestão de produção
-
-
-
-Esse sistema foi feito para organizar as ordens de produção, serviço, clientes, pedidos e etc
-## Recursos
-
-1) Cadastro de clientes
-2) Cadastro de OS (Ordens de serviço)
-3) Cadastro de Ordens de Produção
-4) Abertura de chamados
-5) Organização de visitas
-
-Feito completamente em uma empresa da área da saúde, para suas funcionalidades necessarias para uma mudança
-do papel para o digital 
-## Tech
-
- tecnologias usadas no projeto:
-
-- HTML
-- PHP
-- CSS
-- Java-Script
-- MYSQL
-- SCSS
-
-
-## Teplates
-
-Usei os seguintes Templates para fazer o FRONT-END
-
-| Template | README |
-| ------ | ------ |
-| Argon Dashboard | https://www.creative-tim.com/product/argon-dashboard-pro
-
-## Coworking
-
-Quer dar uma ajuda? Ótimo :)
-
-Fique a vontade para fazer seus commits
-
-So abrir o projeto em seu local-server ou web-server para poder editar com o seguinte banco de dados
- ```-- phpMyAdmin SQL Dump
+-- phpMyAdmin SQL Dump
 -- version 4.9.7
 -- https://www.phpmyadmin.net/
 --
@@ -62,7 +19,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `database-name`
+-- Database: `Company`
 --
 
 -- --------------------------------------------------------
@@ -444,7 +401,4 @@ COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
-/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;```
-   
-   
-   
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;

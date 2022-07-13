@@ -1,0 +1,41 @@
+{
+  "background_color": "#2f87ca",
+  "description": "Deltamed dashboard",
+  "dir": "ltr",
+  "display": "standalone",
+  "orientation": "landscape",
+  "name": "Deltamed",
+  "scope": "https://sis.deltamed.ind.br/",
+  "short_name": "Deltamed",
+  "start_url": "https://sis.deltamed.ind.br/",
+  "theme_color": "#2f87ca",
+  "categories": [],
+  "screenshots": [],
+  "shortcuts": [],
+  "icons": [
+    {
+    "src": "../assets/img/favicon244.png",
+    "sizes": "244x244"
+  },
+  {
+    "src": "../assets/img/favicon48.png",
+    "sizes": "48x48"
+  },
+  {
+    "src": "../assets/img/favicon72.png",
+    "sizes": "72x72"
+  },
+  {
+    "src": "../assets/img/favicon96.png",
+    "sizes": "96x96"
+  },
+  {
+    "src": "../assets/img/favicon128.png",
+    "sizes": "128x128"
+  },
+  {
+    "src": "../assets/img/faviconany.png",
+    "sizes": "any"
+  }
+]
+}
