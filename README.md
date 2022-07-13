@@ -12,7 +12,7 @@ Esse sistema foi feito para organizar as ordens de produção, serviço, cliente
 4) Abertura de chamados
 5) Organização de visitas
 
-Feito completamente em uma empresa da área da saúde, para suas funcionalidades necessarias para uma mudança
+Feito completamente baseado em uma empresa da área da saúde, para suas funcionalidades necessarias para uma mudança
 do papel para o digital 
 ## Tech
 
